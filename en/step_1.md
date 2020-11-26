@@ -2,7 +2,7 @@
 
 - You can only access your own backpack and must be logged into your Scratch account to use it.
 
-- Open your backpack by clicking on the **Backpack** tag at the bottom of the screen.
+- Open your backpack by clicking on the **Backpack** tab at the bottom of the screen.
 
 --- no-print ---
 
@@ -58,7 +58,7 @@
 
 --- /print-only ---
 
-- You can hide your backpack when you're not using it by clicking on the **Backpack** tag at the bottom of the screen.
+- You can hide your backpack when you're not using it by clicking on the **Backpack** tab at the bottom of the screen.
 
 --- no-print ---
 
