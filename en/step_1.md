@@ -58,7 +58,7 @@
 
 --- /print-only ---
 
-- To delete items from your backpack, find the item in your backpack tab then right-click and select delete.
+- To delete items from your backpack, find the item in the **Backpack** tab then right-click and select delete.
 
 --- no-print ---
 
