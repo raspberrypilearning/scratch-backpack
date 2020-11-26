@@ -2,6 +2,8 @@
 
 - You can only access your own backpack and must be logged into your Scratch account to use it.
 
+- Open your backpack by clicking on the backpack title bar.
+
 --- no-print ---
 
 ![open backpack.gif](images/open-backback.gif)
@@ -14,7 +16,7 @@
 
 --- /print-only ---
 
-- Click on the **Share** button to make it public.
+- To add a sprite, drag the sprite from the Sprite pane to the backpack. This will store the full sprite in your backpack including all costumes, sounds and script.
 
 --- no-print ---
 
@@ -28,7 +30,7 @@
 
 --- /print-only ---
 
-- You can add instructions on how to use your project.
+- To add a backdrop to your backpack, select the Backdrops pane and click on the Costumes tab choose the backdrop you want and drag it to your backpack.
 
 --- no-print ---
 
@@ -42,7 +44,7 @@
 
 --- /print-only ---
 
-- If this is an original project you can add some simple comments. If you've remixed it, then you can credit the original author.
+- To use your backpack items in another project, drag items you need to their correct pane or tab in your chosen project.
 
 --- no-print ---
 
@@ -56,7 +58,7 @@
 
 --- /print-only ---
 
-- Click on the **Copy link** button to get the link to your project. You can send this link to other people by email, text or on social media.
+- You can hide your backpack when you're not using it by clicking on the backpack title bar.
 
 --- no-print ---
 
@@ -69,9 +71,3 @@
 ![hide backpack.png](images/hide-backpack.png)
 
 --- /print-only ---
-
-- Scratch provides the ability to comment on your own and other's projects. If you are under thirteen, or don't want to allow people to comment on your project, it is probably best to turn off commenting.
-
-![comments-off.png](images/comments-off.png)
-
-- If you are happy and feel safe enough to allow people to write comments on your project, then you can leave the first comment.
