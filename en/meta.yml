@@ -1,0 +1,11 @@
+title: scratch-backpack
+hero_image: images/banner.png
+description: scratch-backpack description
+version: 4
+listed: false
+copyedit: false
+last_tested: "2020-11-26"
+steps:
+  - title: Introduction
+  - title: Step title
+  - title: What next?
