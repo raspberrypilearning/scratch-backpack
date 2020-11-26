@@ -1,4 +1,4 @@
-- Your Scratch backpack can be used to store costumes, sprites, sounds and scripts that you want to keep for use in other projects.
+- Your Scratch backpack can be used to store costumes, sprites, sounds and scripts that you want to copy between projects.
 
 - You can only access your own backpack and must be logged into your Scratch account to use it.
 
@@ -55,6 +55,20 @@
 --- print-only ---
 
 ![new project.png](images/new-project.png)
+
+--- /print-only ---
+
+- To delete items from your backpack, find the item in your backpack tab then right-click and select delete.
+
+--- no-print ---
+
+![delete items.gif](images/delete-items.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+![delete items.png](images/delete-items.png)
 
 --- /print-only ---
 
