@@ -1,8 +1,8 @@
-- Your Scratch backpack can be used to store costumes, sprites, sounds and scripts you want to keep for use in other projects.
+- Your Scratch backpack can be used to store costumes, sprites, sounds and scripts that you want to keep for use in other projects.
 
 - You can only access your own backpack and must be logged into your Scratch account to use it.
 
-- Open your backpack by clicking on the backpack title bar.
+- Open your backpack by clicking on the **Backpack** tag at the bottom of the screen.
 
 --- no-print ---
 
@@ -30,7 +30,7 @@
 
 --- /print-only ---
 
-- To add a backdrop to your backpack, select the Backdrops pane and click on the Costumes tab choose the backdrop you want and drag it to your backpack.
+- To add a backdrop to your backpack, select the Backdrops pane and click on the **Costumes** tab choose the backdrop you want and drag it to your backpack.
 
 --- no-print ---
 
@@ -44,7 +44,7 @@
 
 --- /print-only ---
 
-- To use your backpack items in another project, drag items you need to their correct pane or tab in your chosen project.
+- To use your backpack items in another project, open the project and drag items you need to their correct pane or tab.
 
 --- no-print ---
 
@@ -58,7 +58,7 @@
 
 --- /print-only ---
 
-- You can hide your backpack when you're not using it by clicking on the backpack title bar.
+- You can hide your backpack when you're not using it by clicking on the **Backpack** tag at the bottom of the screen.
 
 --- no-print ---
 
