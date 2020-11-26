@@ -6,7 +6,7 @@
 
 --- no-print ---
 
-![open backpack.gif](images/open-backback.gif)
+![open backpack.gif](images/open-backpack.gif)
 
 --- /no-print ---
 
