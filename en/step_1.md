@@ -6,13 +6,13 @@
 
 --- no-print ---
 
-![open backpack.gif](images/open-backpack.gif)
+![Clicking on the Backpack tab just under the code editor opens up the backpack area.](images/open-backpack.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![open backpack.png](images/open-backpack.png)
+![Full Scratch editor with Backpack tab highlighted.](images/open-backpack.png)
 
 --- /print-only ---
 
@@ -20,13 +20,13 @@
 
 --- no-print ---
 
-![add sprite.gif](images/add-sprite.gif)
+![Dragging the Turtle 2 sprite to the backpack to add it.](images/add-sprite.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![add sprite.png](images/add-sprite.png)
+![Full Scratch editor with an arrow from the Turtle 2 sprite to the backpack area. ](images/add-sprite.png)
 
 --- /print-only ---
 
@@ -34,13 +34,13 @@
 
 --- no-print ---
 
-![add backdrop.gif](images/add-backdrop.gif)
+![Dragging an island backdrop to the backpack.](images/add-backdrop.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![add backdrop.png](images/add-backdrop.png)
+![Full scratch editor annotated with an arrow from the backdrop to the backpack.](images/add-backdrop.png)
 
 --- /print-only ---
 
@@ -48,13 +48,13 @@
 
 --- no-print ---
 
-![new project.gif](images/new-project.gif)
+![Dragging the Turtle 2 sprite to the sprite list and the island backdrop to the backdrop list of a new project.](images/new-project.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![new project.png](images/new-project.png)
+![Full scratch editor annotated with an arrow from the Turtle 2 sprite in the backpack to the sprite list.](images/new-project.png)
 
 --- /print-only ---
 
@@ -62,13 +62,13 @@
 
 --- no-print ---
 
-![delete items.gif](images/delete-items.gif)
+![Right clicking on the Turtle 2 sprite in the backpack to delete it.](images/delete-items.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![delete items.png](images/delete-items.png)
+![View of backpack area with Turtle 2 sprite right clicked and delete option available.](images/delete-items.png)
 
 --- /print-only ---
 
@@ -76,12 +76,12 @@
 
 --- no-print ---
 
-![hide backpack.gif](images/hide-backpack.gif)
+![Clicking on the same Backpack tab used to open the backpack, to hide the backpack.](images/hide-backpack.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![hide backpack.png](images/hide-backpack.png)
+![Annotated image of backpack tab.](images/hide-backpack.png)
 
 --- /print-only ---
