@@ -1,87 +1,87 @@
-- You can use your Scratch Backpack to store costumes, sprites, sounds, and scripts that you want to copy between projects.
+- Galli di ddefnyddio dy Becyn Cefn Scratch i storio gwisgoedd, corluniau, seiniau a sgriptiau rwyt ti am eu copïo rhwng prosiectau.
 
-- You can only access your own Backpack, and you must be logged in to your Scratch account to use it.
+- Dim ond dy Becyn Cefn dy hun alli di gael mynediad ato, a rhaid i ti fewngofnodi i dy gyfrif Scratch i'w ddefnyddio.
 
-- To open your Backpack, click on the **Backpack** tab at the bottom of the screen.
+- I agor dy Becyn Cefn, clicia ar y tab **Pecyn Cefn** ar waelod y sgrin.
 
 --- no-print ---
 
-![Clicking on the Backpack tab just below the Code area opens the Backpack.](images/open-backpack.gif)
+![Mae clicio ar y tab Pecyn Cefn o dan ardal y Cod yn agor y Pecyn Cefn.](images/open-backpack.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with the Backpack tab highlighted.](images/open-backpack.png)
+![Y golygydd Scratch llawn, gyda'r tab Pecyn Cefn.](images/open-backpack.png)
 
 --- /print-only ---
 
-- To add a sprite to your Backpack, drag the sprite from the Sprite list to the Backpack. This will store the full sprite in your Backpack, including all of its costumes, sounds, and scripts.
+- I ychwanegu corlun i dy Becyn Cefn, llusga'r corlun o'r rhestr Corluniau i'r Pecyn Cefn. Bydd hyn yn storio'r corlun llawn yn dy Becyn Cefn, gan gynnwys ei holl wisgoedd, seiniau a sgriptiau.
 
 --- no-print ---
 
-![Dragging the Turtle 2 sprite from the Sprite list to the Backpack to add it.](images/add-sprite.gif)
+![Llusgo'r corlun Turtle 2 o'r rhestr Corluniau i'r Pecyn Cefn i'w ychwanegu.](images/add-sprite.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the Turtle 2 sprite in the Sprite list, to the Backpack.](images/add-sprite.png)
+![Y golygydd Scratch llawn, gyda saeth o'r corlun Turtle 2 yn y rhestr Corluniau, i'r Pecyn Cefn.](images/add-sprite.png)
 
 --- /print-only ---
 
-- To add a backdrop to your Backpack, select the Stage pane and click on the **Backdrops** tab, then choose the backdrop that you want and drag it to your Backpack.
+- I ychwanegu cefnlen i dy Becyn Cefn, dewisa'r cwarel Llwyfan a chlicio ar y **Cefnlenni**, yna dewisa'r gefnlen rwyt ti ei eisiau a'i lusgo i dy Becyn Cefn.
 
 --- no-print ---
 
-![Dragging an island backdrop from the Backdrops tab to the Backpack.](images/add-backdrop.gif)
+![Llusgo cefnlen ynys o'r tab Cefnlenni i'r Pecyn Cefn.](images/add-backdrop.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the backdrop in the Backdrops tab, to the Backpack.](images/add-backdrop.png)
+![Y golygydd Scratch llawn, gyda saeth o'r gefnlen yn y tab Cefnlenni, i'r Pecyn Cefn.](images/add-backdrop.png)
 
 --- /print-only ---
 
-- To use an item in your Backpack in another project, open the project and drag the item from the Backpack to the correct pane or tab.
+- I ddefnyddio eitem yn dy Becyn Cefn mewn prosiect arall, agora'r prosiect a llusga'r eitem o'r Pecyn Cefn i'r cwarel neu'r tab cywir.
 
 --- no-print ---
 
-![Dragging the Turtle 2 sprite to the Sprite list, and the island backdrop to the Stage pane, in a new project.](images/new-project.gif)
+![Llusgo'r corlun Turtle 2 i'r rhestr Corluniau, a chefnlen ynys i'r cwarel Llwyfan, mewn prosiect newydd.](images/new-project.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the Turtle 2 sprite in the Backpack to the Sprite list in a new project.](images/new-project.png)
+![Y golygydd Scratch llawn, gyda saeth o'r corlun Turtle 2 yn y Pecyn Cefn i'r rhestr Corluniau mewn prosiect newydd.](images/new-project.png)
 
 --- /print-only ---
 
-- To delete an item in your Backpack, find the item in the **Backpack** tab, then right-click (or on a tablet, tap and hold) on the item and select **delete**.
+- I ddileu eitem yn dy becyn cefn, edrycha am yr eitem yn y **Pecyn Cefn**, yna de-glicia (neu ar dabled, taro a dal) ar yr eitem a dewis **dileu**.
 
 --- no-print ---
 
-![Right-clicking on the Turtle 2 sprite in the Backpack, then selecting 'delete' to delete it.](images/delete-items.gif)
+![De-glicio ar y corlun Turtle 2 yn y Pecyn Cefn, yna dewis 'dileu' i'w ddileu.](images/delete-items.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The Backpack tab, with a 'delete' option available for the Turtle 2 sprite after the sprite has been right-clicked.](images/delete-items.png)
+![Y tab Pecyn Cefn, gydag opsiwn 'dileu' ar gael ar gyfer y corlun Turtle 2 ar ôl de-glicio'r corlun.](images/delete-items.png)
 
 --- /print-only ---
 
-- You can hide your Backpack when you are not using it. To do this, click on the **Backpack** tab at the bottom of the screen.
+- Galli di guddio dy Becyn Cefn pan dwyt ti ddim yn ei ddefnyddio. I wneud hyn, clicia ar y tab **Pecyn Cefn** ar waelod y sgrin.
 
 --- no-print ---
 
-![Clicking on the same Backpack tab used to open the Backpack, to hide the Backpack.](images/hide-backpack.gif)
+![Clicio ar yr un tab Pecyn Cefn a ddefnyddiwyd i agor y Pecyn Cefn i guddio'r Pecyn Cefn.](images/hide-backpack.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The Backpack tab highlighted.](images/hide-backpack.png)
+![Y tab Pecyn Cefn wedi'i amlygu.](images/hide-backpack.png)
 
 --- /print-only ---
