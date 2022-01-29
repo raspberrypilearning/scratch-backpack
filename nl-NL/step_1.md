@@ -1,36 +1,36 @@
-- You can use your Scratch Backpack to store costumes, sprites, sounds, and scripts that you want to copy between projects.
+- Je kunt je Scratch-rugzak gebruiken om uiterlijken, sprites, geluiden en scripts op te slaan die je tussen projecten wilt kopiëren.
 
-- You can only access your own Backpack, and you must be logged in to your Scratch account to use it.
+- Je hebt alleen toegang tot je eigen rugzak en je moet ingelogd zijn op je Scratch-account om het te gebruiken.
 
-- To open your Backpack, click on the **Backpack** tab at the bottom of the screen.
+- Om je rugzak te openen, klik je op **Rugzak** onderaan het scherm.
 
 --- no-print ---
 
-![Clicking on the Backpack tab just below the Code area opens the Backpack.](images/open-backpack.gif)
+![Als je op het tabblad Rugzak net onder het codegebied klikt, wordt de rugzak geopend.](images/open-backpack.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with the Backpack tab highlighted.](images/open-backpack.png)
+![De volledige Scratch-editor, met het tabblad Rugzak gemarkeerd.](images/open-backpack.png)
 
 --- /print-only ---
 
-- To add a sprite to your Backpack, drag the sprite from the Sprite list to the Backpack. This will store the full sprite in your Backpack, including all of its costumes, sounds, and scripts.
+- Om een sprite aan je rugzak toe te voegen, sleep je de sprite van de sprite-lijst naar de rugzak. Hiermee wordt de volledige sprite in je rugzak opgeslagen, inclusief alle uiterlijken, geluiden en scripts.
 
 --- no-print ---
 
-![Dragging the Turtle 2 sprite from the Sprite list to the Backpack to add it.](images/add-sprite.gif)
+![De Turtle 2-sprite van de sprite-lijst naar de rugzak slepen om deze toe te voegen.](images/add-sprite.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the Turtle 2 sprite in the Sprite list, to the Backpack.](images/add-sprite.png)
+![De volledige Scratch-editor, met een pijl van de Turtle 2-sprite in de sprite-lijst naar de rugzak.](images/add-sprite.png)
 
 --- /print-only ---
 
-- To add a backdrop to your Backpack, select the Stage pane and click on the **Backdrops** tab, then choose the backdrop that you want and drag it to your Backpack.
+- Om een achtergrond aan je rugzak toe te voegen, selecteer je het speelveld-paneel en klik je op **Achtergronden** en kies dan je de achtergrond die je wilt en sleep je deze naar je rugzak.
 
 --- no-print ---
 
