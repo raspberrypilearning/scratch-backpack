@@ -34,54 +34,54 @@
 
 --- no-print ---
 
-![Dragging an island backdrop from the Backdrops tab to the Backpack.](images/add-backdrop.gif)
+![Een eiland-achtergrond slepen van het tabblad Achtergronden naar de rugzak.](images/add-backdrop.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the backdrop in the Backdrops tab, to the Backpack.](images/add-backdrop.png)
+![De volledige Scratch-editor, met een pijl van de achtergrond op het tabblad Achtergronden naar de rugzak.](images/add-backdrop.png)
 
 --- /print-only ---
 
-- To use an item in your Backpack in another project, open the project and drag the item from the Backpack to the correct pane or tab.
+- Om een item in je rugzak in een ander project te gebruiken, open je het project en sleep je het item van de rugzak naar het juiste paneel of tabblad.
 
 --- no-print ---
 
-![Dragging the Turtle 2 sprite to the Sprite list, and the island backdrop to the Stage pane, in a new project.](images/new-project.gif)
+![De Turtle 2-sprite naar de sprite-lijst slepen en de achtergrond van het eiland naar het speelveld-venster, in een nieuw project.](images/new-project.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the Turtle 2 sprite in the Backpack to the Sprite list in a new project.](images/new-project.png)
+![De volledige Scratch-editor, met een pijl van de Turtle 2-sprite in de rugzak naar de sprite-lijst in een nieuw project.](images/new-project.png)
 
 --- /print-only ---
 
-- To delete an item in your Backpack, find the item in the **Backpack** tab, then right-click (or on a tablet, tap and hold) on the item and select **delete**.
+- Om een item in je rugzak te verwijderen, zoek je het item op je **Rugzak** tabblad, klik je met de rechtermuisknop (of tik op een tablet en houd het vast) op het item en selecteer je **verwijderen**.
 
 --- no-print ---
 
-![Right-clicking on the Turtle 2 sprite in the Backpack, then selecting 'delete' to delete it.](images/delete-items.gif)
+![Rechts klikken op de Turtle 2-sprite in de rugzak en dan 'verwijderen' selecteren om deze te verwijderen.](images/delete-items.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The Backpack tab, with a 'delete' option available for the Turtle 2 sprite after the sprite has been right-clicked.](images/delete-items.png)
+![Het tabblad rugzak, met een 'verwijder'-optie voor de Turtle 2-sprite nadat met de rechtermuisknop op de sprite is geklikt.](images/delete-items.png)
 
 --- /print-only ---
 
-- You can hide your Backpack when you are not using it. To do this, click on the **Backpack** tab at the bottom of the screen.
+- Je kunt je rugzak verbergen als je hem niet gebruikt. Klik hiervoor op de **Rugzak** tab onderaan het scherm.
 
 --- no-print ---
 
-![Clicking on the same Backpack tab used to open the Backpack, to hide the Backpack.](images/hide-backpack.gif)
+![Door op hetzelfde tabblad rugzak dat werd gebruikt om de rugzak te openen te klikken, wordt de rugzak verborgen.](images/hide-backpack.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The Backpack tab highlighted.](images/hide-backpack.png)
+![Het tabblad rugzak gemarkeerd.](images/hide-backpack.png)
 
 --- /print-only ---
