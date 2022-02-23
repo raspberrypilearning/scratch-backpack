@@ -1,87 +1,87 @@
-- You can use your Scratch Backpack to store costumes, sprites, sounds, and scripts that you want to copy between projects.
+- يمكنك استخدام الحقيبة الخاصة بسكراتش لتخزين المظاهر والكائنات والأصوات والنصوص التي تريد نسخها بين المشاريع.
 
-- You can only access your own Backpack, and you must be logged in to your Scratch account to use it.
+- يمكنك فقط الوصول إلى حقيبة الخاصة بك ، ويجب أن تقوم بتسجيل الدخول إلى حساب سكراتش الخاص بك لاستخدامها.
 
-- To open your Backpack, click on the **Backpack** tab at the bottom of the screen.
+- لفتح الحقيبة الخاصة بك ، انقر فوق علامة التبويب **الحقيبة** في الجزء السفلي من الشاشة.
 
 --- no-print ---
 
-![Clicking on the Backpack tab just below the Code area opens the Backpack.](images/open-backpack.gif)
+![يؤدي النقر فوق علامة التبويب الحقيبة الموجودة أسفل منطقة الرمز مباشرة إلى فتح الحقيبة.](images/open-backpack.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with the Backpack tab highlighted.](images/open-backpack.png)
+![محرر سكراتش الكامل ، مع تمييز علامة التبويب الحقيبة.](images/open-backpack.png)
 
 --- /print-only ---
 
-- To add a sprite to your Backpack, drag the sprite from the Sprite list to the Backpack. This will store the full sprite in your Backpack, including all of its costumes, sounds, and scripts.
+- لإضافة كائن إلى الحقيبة الخاصة بك ، اسحب الكائن من قائمة الكائن إلى حقيبة. سيؤدي هذا إلى تخزين الكائن بالكامل في الحقيبة الخاصة بك ، بما في ذلك جميع المظاهر والأصوات والنصوص.
 
 --- no-print ---
 
-![Dragging the Turtle 2 sprite from the Sprite list to the Backpack to add it.](images/add-sprite.gif)
+![سحب كائن سلحفاة ٢ من قائمة الكائن إلى الحقيبة لإضافته.](images/add-sprite.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the Turtle 2 sprite in the Sprite list, to the Backpack.](images/add-sprite.png)
+![محرر سكراتش الكامل ،مع سهم من كائن سلحفاة ٢ في قائمة كائن ، إلى حقيبة الظهر.](images/add-sprite.png)
 
 --- /print-only ---
 
-- To add a backdrop to your Backpack, select the Stage pane and click on the **Backdrops** tab, then choose the backdrop that you want and drag it to your Backpack.
+- لإضافة خلفية إلى الحقيبة الخاصة بك ، حدد جزء المنصة وانقر فوق علامة التبويب **الخلفيات** ، ثم اختر الخلفية التي تريدها واسحبها إلى حقيبة الظهر الخاصة بك.
 
 --- no-print ---
 
-![Dragging an island backdrop from the Backdrops tab to the Backpack.](images/add-backdrop.gif)
+![سحب خلفية جزيرة من علامة التبويب الخلفيات إلى الحقيبة.](images/add-backdrop.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the backdrop in the Backdrops tab, to the Backpack.](images/add-backdrop.png)
+![محرر سكراتش الكامل ، مع سهم من الخلفية في علامة التبويب الخلفيات ، إلى الحقيبة.](images/add-backdrop.png)
 
 --- /print-only ---
 
-- To use an item in your Backpack in another project, open the project and drag the item from the Backpack to the correct pane or tab.
+- لاستخدام عنصر في الحقيبة الخاصة بك في مشروع آخر ، افتح المشروع واسحب العنصر من الحقيبة إلى الجزء أو علامة التبويب الصحيحة.
 
 --- no-print ---
 
-![Dragging the Turtle 2 sprite to the Sprite list, and the island backdrop to the Stage pane, in a new project.](images/new-project.gif)
+![سحب كائن السلحفاة ٢ إلى قائمة كائن ، وخلفية الجزيرة إلى جزء المنصة ، في مشروع جديد.](images/new-project.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the Turtle 2 sprite in the Backpack to the Sprite list in a new project.](images/new-project.png)
+![محرر سكراتش الكامل ،مع سهم من كائن سلحفاة٢ في قائمة كائن ، إلى حقيبة الظهر.](images/new-project.png)
 
 --- /print-only ---
 
-- To delete an item in your Backpack, find the item in the **Backpack** tab, then right-click (or on a tablet, tap and hold) on the item and select **delete**.
+- لحذف عنصر في الحقيبة الخاصة بك ، ابحث عن العنصر في علامة التبويب **الحقيبة** ، ثم انقر بزر الماوس الأيمن (أو على الكمبيوتر اللوحي ، انقر مع الاستمرار) على العنصر وحدد **حذف**.
 
 --- no-print ---
 
-![Right-clicking on the Turtle 2 sprite in the Backpack, then selecting 'delete' to delete it.](images/delete-items.gif)
+![النقر بزر الماوس الأيمن على كائن سلحفاة ٢ في الحقيبة ، ثم تحديد "حذف" لحذفه.](images/delete-items.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The Backpack tab, with a 'delete' option available for the Turtle 2 sprite after the sprite has been right-clicked.](images/delete-items.png)
+![علامة التبويب لحقيبة ، مع خيار "حذف" متاح لكائن سلحفاة ٢ بعد النقر بزر الماوس الأيمن على الكائن.](images/delete-items.png)
 
 --- /print-only ---
 
-- You can hide your Backpack when you are not using it. To do this, click on the **Backpack** tab at the bottom of the screen.
+- يمكنك إخفاء الحقيبة الخاصة بك عند عدم استخدامها. للقيام بذلك ، انقر فوق علامة التبويب **الحقيبة** في الجزء السفلي من الشاشة.
 
 --- no-print ---
 
-![Clicking on the same Backpack tab used to open the Backpack, to hide the Backpack.](images/hide-backpack.gif)
+![النقر فوق علامة التبويب "حقيبة الظهر" المستخدمة لفتح حقيبة الظهر ، لإخفاء حقيبة الظهر.](images/hide-backpack.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The Backpack tab highlighted.](images/hide-backpack.png)
+![تمييز علامة التبويب الحقيبة.](images/hide-backpack.png)
 
 --- /print-only ---
