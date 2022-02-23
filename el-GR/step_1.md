@@ -1,87 +1,87 @@
-- You can use your Scratch Backpack to store costumes, sprites, sounds, and scripts that you want to copy between projects.
+- Μπορείς να χρησιμοποιήσεις το Σακίδιο σου στο Scratch για να αποθηκεύσεις ενδυμασίες, αντικείμενα, ήχους και script που μπορεί να θελήσεις να αντιγράψεις σε άλλα έργα.
 
-- You can only access your own Backpack, and you must be logged in to your Scratch account to use it.
+- Μπορείς να έχεις πρόσβαση μόνο στο δικό σου Σακίδιο και πρέπει να είσαι συνδεδεμένος/η στον λογαριασμό σου στο Scratch για να το χρησιμοποιήσεις.
 
-- To open your Backpack, click on the **Backpack** tab at the bottom of the screen.
+- Για να ανοίξεις το Σακίδιό σου, κάνε κλικ στην καρτέλα **Σακίδιο** στο κάτω μέρος της οθόνης.
 
 --- no-print ---
 
-![Clicking on the Backpack tab just below the Code area opens the Backpack.](images/open-backpack.gif)
+![Κάνοντας κλικ στην καρτέλα Σακίδιο ακριβώς κάτω από την περιοχή Κώδικα ανοίγει το Σακίδιο.](images/open-backpack.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with the Backpack tab highlighted.](images/open-backpack.png)
+![Το πρόγραμμα επεξεργασίας Scratch, με τονισμένη την καρτέλα Σακίδιο.](images/open-backpack.png)
 
 --- /print-only ---
 
-- To add a sprite to your Backpack, drag the sprite from the Sprite list to the Backpack. This will store the full sprite in your Backpack, including all of its costumes, sounds, and scripts.
+- Για να προσθέσεις ένα αντικείμενο στο Σακίδιο σου, σύρε το αντικείμενο από τη λίστα Αντικειμένων στο Σακίδιο. Αυτό θα αποθηκεύσει ολόκληρο το αντικείμενο στο Σακίδιο σου, συμπεριλαμβανομένων όλων των ενδυμασιών, των ήχων και των script του.
 
 --- no-print ---
 
-![Dragging the Turtle 2 sprite from the Sprite list to the Backpack to add it.](images/add-sprite.gif)
+![Σύροντας το αντικείμενο Turtle 2 από τη λίστα Αντικειμώνων στο Σακίδιο για να το προσθέσεις.](images/add-sprite.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the Turtle 2 sprite in the Sprite list, to the Backpack.](images/add-sprite.png)
+![Το πρόγραμμα επεξεργασίας Scratch, με ένα βέλος από το αντικείμενο Turtle 2 στη λίστα Αντικειμένων, στο Σακίδιο.](images/add-sprite.png)
 
 --- /print-only ---
 
-- To add a backdrop to your Backpack, select the Stage pane and click on the **Backdrops** tab, then choose the backdrop that you want and drag it to your Backpack.
+- Για να προσθέσεις ένα υπόβαθρο στο Σακίδιο σου, επίλεξε το παράθυρο Σκηνή και κάνε κλικ στην καρτέλα **Υπόβαθρα** και, στη συνέχεια, επίλεξε το υπόβαθρο που θέλεις και μπορείς να το σύρεις στο Σακίδιο σου.
 
 --- no-print ---
 
-![Dragging an island backdrop from the Backdrops tab to the Backpack.](images/add-backdrop.gif)
+![Σύροντας ένα σκηνικό με νησί από την καρτέλα Υπόβαθρα στο Σακίδιο.](images/add-backdrop.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the backdrop in the Backdrops tab, to the Backpack.](images/add-backdrop.png)
+![Το πρόγραμμα επεξεργασίας Scratch, με ένα βέλος από το υπόβαθρο στην καρτέλα Υπόβαθρα, προς το Σακίδιο.](images/add-backdrop.png)
 
 --- /print-only ---
 
-- To use an item in your Backpack in another project, open the project and drag the item from the Backpack to the correct pane or tab.
+- Για να χρησιμοποιήσεις ένα αντικείμενο στο Σακίδιο σου σε άλλο έργο, άνοιξε το έργο και σύρε το αντικείμενο από το Σακίδιο στο σωστό παράθυρο ή καρτέλα.
 
 --- no-print ---
 
-![Dragging the Turtle 2 sprite to the Sprite list, and the island backdrop to the Stage pane, in a new project.](images/new-project.gif)
+![Σύροντας το αντικείμενο Turtle 2 στη λίστα Αντικειμένων και το σκηνικό του νησιού στο παράθυρο της Σκηνής, σε ένα νέο έργο.](images/new-project.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the Turtle 2 sprite in the Backpack to the Sprite list in a new project.](images/new-project.png)
+![Το πρόγραμμα επεξεργασίας Scratch, με ένα βέλος από το αντικείμενο Turtle 2 προς το Σακίδιο σε ένα νέο έργο.](images/new-project.png)
 
 --- /print-only ---
 
-- To delete an item in your Backpack, find the item in the **Backpack** tab, then right-click (or on a tablet, tap and hold) on the item and select **delete**.
+- Για να διαγράψεις ένα αντικείμενο στο Σακίδιο σου, εντόπισε το στοιχείο στην καρτέλα **Σακίδιο** και, στη συνέχεια, κάνε δεξί κλικ (ή σε tablet, πάτησε παρατεταμένα) στο αντικείμενο και επίλεξε **διαγραφή**.
 
 --- no-print ---
 
-![Right-clicking on the Turtle 2 sprite in the Backpack, then selecting 'delete' to delete it.](images/delete-items.gif)
+![Κάνοντας δεξί κλικ στο αντικείμενο Turtle 2 στο Σακίδιο και, στη συνέχεια, επιλέγοντας 'διαγραφή' μπορείς να το διαγράψεις.](images/delete-items.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The Backpack tab, with a 'delete' option available for the Turtle 2 sprite after the sprite has been right-clicked.](images/delete-items.png)
+![Η καρτέλα Σακίδιο, με μια επιλογή «διαγραφής» διαθέσιμη για το αντικείμενο Turtle 2 αφού κάνεις δεξί κλικ στο αντικείμενο.](images/delete-items.png)
 
 --- /print-only ---
 
-- You can hide your Backpack when you are not using it. To do this, click on the **Backpack** tab at the bottom of the screen.
+- Μπορείς να κρύψεις το Σακίδιο σου όταν δεν το χρησιμοποιείς. Για να το κάνεις αυτό, κάνε κλικ στην καρτέλα **Σακίδιο** στο κάτω μέρος της οθόνης.
 
 --- no-print ---
 
-![Clicking on the same Backpack tab used to open the Backpack, to hide the Backpack.](images/hide-backpack.gif)
+![Κάνοντας κλικ στην ίδια καρτέλα Σακίδιο από την οποία άνοιξες το Backpack, μπορείς να κρύψεις το Σακίδιο.](images/hide-backpack.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The Backpack tab highlighted.](images/hide-backpack.png)
+![Η καρτέλα Σακίδιο επισημάνθηκε.](images/hide-backpack.png)
 
 --- /print-only ---
