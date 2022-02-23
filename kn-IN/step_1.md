@@ -72,7 +72,7 @@
 
 --- /print-only ---
 
-- You can hide your Backpack when you are not using it. To do this, click on the **Backpack** tab at the bottom of the screen.
+- You can hide your Backpack when you are not using it. ಇದನ್ನು ಮಾಡಲು, ಪರದೆಯ ಕೆಳಗಡೆ ಇರುವ **Backpack** ಟ್ಯಾಬ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
 --- no-print ---
 
