@@ -1,87 +1,87 @@
-- You can use your Scratch Backpack to store costumes, sprites, sounds, and scripts that you want to copy between projects.
+- మీరు ప్రాజెక్ట్‌ల మధ్య కాపీ చేయాలనుకుంటున్న costumes, sprites, sounds మరియు scripts నిల్వ చేయడానికి మీ Scratch Backpack ని ఉపయోగించవచ్చు.
 
-- You can only access your own Backpack, and you must be logged in to your Scratch account to use it.
+- మీరు మీ స్వంత Backpack ను మాత్రమే యాక్సెస్ చేయగలరు మరియు దాన్ని ఉపయోగించడానికి మీరు తప్పనిసరిగా మీ Scratch ఖాతాకు లాగిన్ అయి ఉండాలి.
 
-- To open your Backpack, click on the **Backpack** tab at the bottom of the screen.
+- మీ Backpack ను తెరవడానికి, స్క్రీన్ దిగువన ఉన్న **Backpack** ట్యాబ్‌పై క్లిక్ చేయండి.
 
 --- no-print ---
 
-![Clicking on the Backpack tab just below the Code area opens the Backpack.](images/open-backpack.gif)
+![Code ప్రాంతానికి దిగువన ఉన్న Backpack ట్యాబ్‌పై క్లిక్ చేస్తే Backpack తెరవబడుతుంది.](images/open-backpack.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with the Backpack tab highlighted.](images/open-backpack.png)
+![పూర్తి Scratch ఎడిటర్, Backpack ట్యాబ్ హైలైట్ చేయబడింది.](images/open-backpack.png)
 
 --- /print-only ---
 
-- To add a sprite to your Backpack, drag the sprite from the Sprite list to the Backpack. This will store the full sprite in your Backpack, including all of its costumes, sounds, and scripts.
+- మీ Backpackకి sprite ను జోడించడానికి, sprite జాబితా నుండి Backpack Sprite ను డ్రాగ్ చేయండి. ఇది మీ Backpack దాని costumes, sounds, మరియు scripts సహా పూర్తి sprite ను నిల్వ చేస్తుంది.
 
 --- no-print ---
 
-![Dragging the Turtle 2 sprite from the Sprite list to the Backpack to add it.](images/add-sprite.gif)
+![Turtle 2 sprite ను జోడించడానికి sprite జాబితా నుండి Backpack కి లాగడం.](images/add-sprite.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the Turtle 2 sprite in the Sprite list, to the Backpack.](images/add-sprite.png)
+![Sprite జాబితాలో Turtle 2 sprite నుండి Backpackకి బాణంతో పూర్తి Scratch ఎడిటర్.](images/add-sprite.png)
 
 --- /print-only ---
 
-- To add a backdrop to your Backpack, select the Stage pane and click on the **Backdrops** tab, then choose the backdrop that you want and drag it to your Backpack.
+- మీ Backpack కి బ్యాక్‌డ్రాప్ జోడించడానికి, Stage పేన్‌ని ఎంచుకుని, **Backdrops** ట్యాబ్‌పై క్లిక్ చేసి, ఆపై మీకు కావలసిన బ్యాక్‌డ్రాప్‌ను ఎంచుకుని, దాన్ని మీ Backpack కి డ్రాగ్ చేయండి.
 
 --- no-print ---
 
-![Dragging an island backdrop from the Backdrops tab to the Backpack.](images/add-backdrop.gif)
+![బ్యాక్‌డ్రాప్‌ల ట్యాబ్ నుండి Backpackకి ఐలాండ్ బ్యాక్‌డ్రాప్‌ను డ్రాగ్ చేయడం.](images/add-backdrop.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the backdrop in the Backdrops tab, to the Backpack.](images/add-backdrop.png)
+![Backdrop ల ట్యాబ్‌లోని బ్యాక్‌డ్రాప్ నుండి Backpackకి బాణంతో కూడిన పూర్తి Scratch ఎడిటర్.](images/add-backdrop.png)
 
 --- /print-only ---
 
-- To use an item in your Backpack in another project, open the project and drag the item from the Backpack to the correct pane or tab.
+- మరొక ప్రాజెక్ట్‌లో మీ Backpack లోని అంశాన్ని ఉపయోగించడానికి, ప్రాజెక్ట్‌ను తెరిచి, అంశాన్ని Backpack నుండి సరైన పేన్ లేదా ట్యాబ్‌కు లాగండి.
 
 --- no-print ---
 
-![Dragging the Turtle 2 sprite to the Sprite list, and the island backdrop to the Stage pane, in a new project.](images/new-project.gif)
+![కొత్త ప్రాజెక్ట్‌లో Turtle 2 sprite ను Sprite జాబితాకు మరియు ఐలాండ్ బ్యాక్‌డ్రాప్‌ను Stage పేన్‌కు లాగడం.](images/new-project.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the Turtle 2 sprite in the Backpack to the Sprite list in a new project.](images/new-project.png)
+![పూర్తి Scratch ఎడిటర్, Backpackలోని Turtle 2 sprite నుండి కొత్త ప్రాజెక్ట్‌లో sprite జాబితాకు బాణం.](images/new-project.png)
 
 --- /print-only ---
 
-- To delete an item in your Backpack, find the item in the **Backpack** tab, then right-click (or on a tablet, tap and hold) on the item and select **delete**.
+- మీ Backpack లోని ఐటెమ్‌ను తొలగించడానికి, **Backpack** ట్యాబ్‌లో ఐటెమ్‌ను కనుగొని, ఆపై ఐటెమ్‌పై రైట్-క్లిక్ (లేదా టాబ్లెట్‌లో, నొక్కి, పట్టుకోండి) ఆపై **delete** ని ఎంచుకోండి.
 
 --- no-print ---
 
-![Right-clicking on the Turtle 2 sprite in the Backpack, then selecting 'delete' to delete it.](images/delete-items.gif)
+![Backpack లోని Turtle 2 sprite పై రైట్-క్లిక్ చేసి, దాన్ని తొలగించడానికి 'delete' ని ఎంచుకోండి.](images/delete-items.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The Backpack tab, with a 'delete' option available for the Turtle 2 sprite after the sprite has been right-clicked.](images/delete-items.png)
+![Sprite ని రైట్-క్లిక్ చేసిన తర్వాత Turtle 2 Sprite కోసం 'delete' ఎంపికతో Backpack ట్యాబ్ అందుబాటులో ఉంటుంది.](images/delete-items.png)
 
 --- /print-only ---
 
-- You can hide your Backpack when you are not using it. To do this, click on the **Backpack** tab at the bottom of the screen.
+- మీరు మీ Backpack ని ఉపయోగించనప్పుడు దాన్ని దాచవచ్చు. దీన్ని చేయడానికి, స్క్రీన్ దిగువన ఉన్న **Backpack** ట్యాబ్‌పై క్లిక్ చేయండి.
 
 --- no-print ---
 
-![Clicking on the same Backpack tab used to open the Backpack, to hide the Backpack.](images/hide-backpack.gif)
+![Backpack ను దాచడానికి, Backpack ను తెరవడానికి ఉపయోగించిన అదే Backpack ట్యాబ్‌పై క్లిక్ చేయడం.](images/hide-backpack.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The Backpack tab highlighted.](images/hide-backpack.png)
+![Backpack ట్యాబ్ హైలైట్ చేయబడింది.](images/hide-backpack.png)
 
 --- /print-only ---
