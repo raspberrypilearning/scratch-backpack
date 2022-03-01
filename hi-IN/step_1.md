@@ -72,16 +72,16 @@
 
 --- /print-only ---
 
-- जब आप इसका उपयोग नहीं कर रहे हों तो आप अपने Backpack को छिपा सकते हैं। To do this, click on the **Backpack** tab at the bottom of the screen.
+- जब आप इसका उपयोग नहीं कर रहे हों तो आप अपने Backpack को छिपा सकते हैं। ऐसा करने के लिए, स्क्रीन के निचले भाग में **Backpack** टैब पर क्लिक करें।
 
 --- no-print ---
 
-![Clicking on the same Backpack tab used to open the Backpack, to hide the Backpack.](images/hide-backpack.gif)
+![Backpack को खोलने के लिए, Backpack को छिपाने के लिए उसी Backpack टैब पर क्लिक करना।](images/hide-backpack.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The Backpack tab highlighted.](images/hide-backpack.png)
+![Backpack टैब हाइलाइट किया गया।](images/hide-backpack.png)
 
 --- /print-only ---
