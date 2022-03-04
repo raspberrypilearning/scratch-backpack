@@ -1,87 +1,87 @@
-- You can use your Scratch Backpack to store costumes, sprites, sounds, and scripts that you want to copy between projects.
+- ನೀವು ನಿಮ್ಮScratch Backpack ನ್ನು ಪ್ರಾಜೆಕ್ಟ್‌ಗಳ ನಡುವೆ ಉಪಯೋಗಿಸಲು ಬಯಸುವ ಉಡುಪುಗಳು, ಸ್ಪ್ರೈಟ್‌ಗಳು, ಧ್ವನಿಗಳು ಮತ್ತು ಬರಹಗಳನ್ನು ಸಂಗ್ರಹಿಸಲು ಉಪಯೋಗಿಸಬಹುದು.
 
-- You can only access your own Backpack, and you must be logged in to your Scratch account to use it.
+- ನೀವು ನಿಮ್ಮ ಸ್ವಂತ Backpack ನ್ನು ಮಾತ್ರ ಪ್ರವೇಶಿಸಬಹುದು, ಮತ್ತು ಅಸನ್ನು ಉಪಯೋಗಿಸಲು ನೀವು ನಿಮ್ಮ Scratch ಖಾತೆಗೆ ಲಾಗ್‌ಇನ್‌ ಆಗಿರಲೇಬೇಕು.
 
-- To open your Backpack, click on the **Backpack** tab at the bottom of the screen.
+- ನಿಮ್ಮ Backpack ನ್ನು ತೆರೆಯಲು, ಪರದೆಯ ಕೆಳಗೆ ಇರುವ **Backpack** ಟ್ಯಾಬ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
 --- no-print ---
 
-![Clicking on the Backpack tab just below the Code area opens the Backpack.](images/open-backpack.gif)
+![Code ಪ್ರದೇಶದ ಕೆಳಗಿನ Backpack ಟ್ಯಾಬ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡುವುದರಿಂದ Backpack ತೆರೆಯುತ್ತದೆ.](images/open-backpack.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with the Backpack tab highlighted.](images/open-backpack.png)
+![Backpack ಟ್ಯಾಬ್ ಅನ್ನು ಹೈಲೈಟ್ ಮಾಡಿರುವ ಸಂಪೂರ್ಣ Scratch ಎಡಿಟರ್.](images/open-backpack.png)
 
 --- /print-only ---
 
-- To add a sprite to your Backpack, drag the sprite from the Sprite list to the Backpack. This will store the full sprite in your Backpack, including all of its costumes, sounds, and scripts.
+- ನಿಮ್ಮ Backpack ಗೆ ಸ್ಪ್ರೈಟ್‌ ಸೇರಿಸಲು, Sprite ಲಿಸ್ಟ್‌ನಿಂದ ಸ್ಪ್ರೈಟ್‌ನ್ನು Backpack ಗೆ ಎಳೆಯಿರಿ. ಇದು ಸಂಪೂರ್ಣ ಸ್ಪ್ರೈಟ್‌ನ್ನು ನಿಮ್ಮ Backpack ನಲ್ಲಿ ಸಂಗ್ರಹಿಸುತ್ತದೆ, ಅದರ ಎಲ್ಲಾ ಉಡುಪುಗಳು, ಧ್ವನಿಗಳು, ಮತ್ತು ಬರಹಗಳನ್ನು ಸೇರಿಸಿ.
 
 --- no-print ---
 
-![Dragging the Turtle 2 sprite from the Sprite list to the Backpack to add it.](images/add-sprite.gif)
+![ಅದನ್ನು ಸೇರಿಸಲು Turtle 2 ಸ್ಪ್ರೈಟ್ ಅನ್ನು Sprite ಪಟ್ಟಿಯಿಂದ Backpack ಗೆ ಎಳೆಯುವುದು.](images/add-sprite.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the Turtle 2 sprite in the Sprite list, to the Backpack.](images/add-sprite.png)
+![Sprite ಪಟ್ಟಿಯಲ್ಲಿರುವ Turtle 2 ಸ್ಪ್ರೈಟ್‌ನಿಂದ Backpack ಗೆ ಬಾಣದೊಂದಿಗೆ ಪೂರ್ಣ Scratch ಎಡಿಟರ್.](images/add-sprite.png)
 
 --- /print-only ---
 
-- To add a backdrop to your Backpack, select the Stage pane and click on the **Backdrops** tab, then choose the backdrop that you want and drag it to your Backpack.
+- ನಿಮ್ಮ Backpack ಗೆ ಹಿನ್ನೆಲೆಯನ್ನು ಸೇರಿಸಲು, Stage ಪೇನ್‌ನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ಮತ್ತು **Backdrops** ಟ್ಯಾಬ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ, ನಂತರ ನಿಮಗೆ ಬೇಕಾದ ಹಿನ್ನಲೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ಅದನ್ನು Backpack ಗೆ ಎಳೆಯಿರಿ.
 
 --- no-print ---
 
-![Dragging an island backdrop from the Backdrops tab to the Backpack.](images/add-backdrop.gif)
+![Backdrops ಟ್ಯಾಬ್‌ನಿಂದ Backpack‌ ಗೆ island ಹಿನ್ನೆಲೆಯನ್ನು ಎಳೆಯುತ್ತಿರುವುದು.](images/add-backdrop.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the backdrop in the Backdrops tab, to the Backpack.](images/add-backdrop.png)
+![Backdrops ಟ್ಯಾಬ್‌ನಲ್ಲಿರುವ ಹಿನ್ನೆಲೆಯಿಂದ Backpack ಗೆ ಬಾಣದೊಂದಿಗೆ ಪೂರ್ಣ Scratch ಎಡಿಟರ್.](images/add-backdrop.png)
 
 --- /print-only ---
 
-- To use an item in your Backpack in another project, open the project and drag the item from the Backpack to the correct pane or tab.
+- ಇನ್ನೊಂದು ಪ್ರಾಜೆಕ್ಟ್‌ನಲ್ಲಿ ನಿಮ್ಮ Backpack ನಲ್ಲಿರುವ ಒಂದು ವಸ್ತುವನ್ನು ಉಪಯೋಗಿಸಲು, ಪ್ರಾಜೆಕ್ಟ್‌ನ್ನು ತೆರೆಯಿರಿ ಮತ್ತು ವಸ್ತುವನ್ನು Backpack ನಿಂದ ಸರಿಯಾದ ಪೇನ್‌ ಅಥವಾ ಟ್ಯಾಬ್‌ಗೆ ಎಳೆಯಿರಿ.
 
 --- no-print ---
 
-![Dragging the Turtle 2 sprite to the Sprite list, and the island backdrop to the Stage pane, in a new project.](images/new-project.gif)
+![ಹೊಸ ಪ್ರಾಜೆಕ್ಟ್‌ನಲ್ಲಿ Turtle 2 ಸ್ಪ್ರೈಟ್ ಅನ್ನು Sprite ಪಟ್ಟಿಗೆ ಮತ್ತು island ಹಿನ್ನೆಲೆಯನ್ನು Stage ಪೇನ್‌ಗೆ ಎಳೆಯುತ್ತಿರುವುದು.](images/new-project.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the Turtle 2 sprite in the Backpack to the Sprite list in a new project.](images/new-project.png)
+![Backpack ನಲ್ಲಿರುವ Turtle 2 ಸ್ಪ್ರೈಟ್‌ನಿಂದ ಹೊಸ ಪ್ರಾಜೆಕ್ಟ್ನಲ್ಲಿ Sprite ಪಟ್ಟಿಗೆ ಬಾಣದ ಗುರುತಿನೊಂದಿಗೆ ಪೂರ್ಣ ಸ್ಕ್ರ್ಯಾಚ್ ಎಡಿಟರ್.](images/new-project.png)
 
 --- /print-only ---
 
-- To delete an item in your Backpack, find the item in the **Backpack** tab, then right-click (or on a tablet, tap and hold) on the item and select **delete**.
+- ನಿಮ್ಮ Backpack ನಲ್ಲಿರುವ ವಸ್ತುವನ್ನು ಅಳಿಸಲು, **Backpack** ಟ್ಯಾಬ್‌ನಲ್ಲಿರುವ ವಸ್ತುವನ್ನು ಪತ್ತೆ ಮಾಡಿ, ನಂತರ ವಾತುವಿನ ಮೇಲೆ ರೈಟ್-ಕ್ಲಿಕ್‌ ಮಾಡಿ (ಅಥವಾ ಟ್ಯಾಬ್ಲೆಟ್‌ನಲ್ಲಿ ಟ್ಯಾಪ್‌ ಮಾಡಿ ಹಿಡಿದುಕೊಳ್ಳಿ) ಮತ್ತು **delete** ಆಯ್ಕೆಮಾಡಿಕೊಳ್ಳಿ.
 
 --- no-print ---
 
-![Right-clicking on the Turtle 2 sprite in the Backpack, then selecting 'delete' to delete it.](images/delete-items.gif)
+![ಅದನ್ನು ಅಳಿಸಲು Backpack ನಲ್ಲಿರುವ Turtle 2 ಸ್ಪ್ರೈಟ್‌ ಮೇಲೆ ರೈಟ್‌-ಕ್ಲಿಕ್‌ ಮಾಡಿ, ನಂತರ 'delete' ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳುವುದು.](images/delete-items.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The Backpack tab, with a 'delete' option available for the Turtle 2 sprite after the sprite has been right-clicked.](images/delete-items.png)
+![ಸ್ಪ್ರೈಟ್‌ ನ್ನು ರೈಟ್- ಕ್ಲಿಕ್‌ ಮಾಡಿದ ನಂತರ Turtle 2 ‌ ಗೆ 'delete' ಆಯ್ಕೆ ದೊರೆಯುವುದರೊಂದಿಗೆ, Backpack ಟ್ಯಾಬ್.](images/delete-items.png)
 
 --- /print-only ---
 
-- You can hide your Backpack when you are not using it. ಇದನ್ನು ಮಾಡಲು, ಪರದೆಯ ಕೆಳಗಡೆ ಇರುವ **Backpack** ಟ್ಯಾಬ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
+- ನೀವು ಉಪಯೋಗಿಸದೇ ಇರುವಾಗ, ನಿಮ್ಮ Backpack ನ್ನು ಮರೆಮಾಡಿ. ಇದನ್ನು ಮಾಡಲು, ಪರದೆಯ ಕೆಳಗಡೆ ಇರುವ **Backpack** ಟ್ಯಾಬ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
 --- no-print ---
 
-![Clicking on the same Backpack tab used to open the Backpack, to hide the Backpack.](images/hide-backpack.gif)
+![Backpack ನ್ನು ಮರೆಮಾಡಲು Backpack‌ ನ್ನು ತೆರೆಯಲು ಉಪಯೋಗಿಸಿದ, ಅದೇ Backpack ಟ್ಯಾಬ್‌ನ್ನು ಕ್ಲಿಕ್‌ ಮಾಡುವುದು.](images/hide-backpack.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The Backpack tab highlighted.](images/hide-backpack.png)
+![Backpack ಟ್ಯಾಬ್‌ ಹೈಲೈಟ್‌ ಮಾಡಿರುವುದು.](images/hide-backpack.png)
 
 --- /print-only ---
