@@ -1,87 +1,87 @@
-- You can use your Scratch Backpack to store costumes, sprites, sounds, and scripts that you want to copy between projects.
+- Możesz użyć plecaka w Scratch do przechowywania kostiumów, duszków, dźwięków i skryptów, które chcesz kopiować między projektami.
 
-- You can only access your own Backpack, and you must be logged in to your Scratch account to use it.
+- Możesz uzyskać dostęp tylko do własnego Plecaka i musisz być zalogowany na swoje konto Scratch, aby z niego korzystać.
 
-- To open your Backpack, click on the **Backpack** tab at the bottom of the screen.
+- Aby otworzyć plecak, kliknij kartę **Plecak** u dołu ekranu.
 
 --- no-print ---
 
-![Clicking on the Backpack tab just below the Code area opens the Backpack.](images/open-backpack.gif)
+![Kliknięcie zakładki Plecak tuż pod obszarem kodu otwiera plecak.](images/open-backpack.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with the Backpack tab highlighted.](images/open-backpack.png)
+![Pełny edytor Scratch z podświetloną zakładką Plecak.](images/open-backpack.png)
 
 --- /print-only ---
 
-- To add a sprite to your Backpack, drag the sprite from the Sprite list to the Backpack. This will store the full sprite in your Backpack, including all of its costumes, sounds, and scripts.
+- Aby dodać duszka do plecaka, przeciągnij duszka z listy duszków do plecaka. Spowoduje to przechowanie pełnego duszka w plecaku, w tym wszystkich jego kostiumów, dźwięków i skryptów.
 
 --- no-print ---
 
-![Dragging the Turtle 2 sprite from the Sprite list to the Backpack to add it.](images/add-sprite.gif)
+![Przeciągnij duszka Żółw 2 z listy duszków do plecaka, aby go dodać.](images/add-sprite.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the Turtle 2 sprite in the Sprite list, to the Backpack.](images/add-sprite.png)
+![Pełny edytor Scratch, ze strzałką od duszka Żółw 2 na liście duszków do plecaka.](images/add-sprite.png)
 
 --- /print-only ---
 
-- To add a backdrop to your Backpack, select the Stage pane and click on the **Backdrops** tab, then choose the backdrop that you want and drag it to your Backpack.
+- Aby dodać tło do plecaka, wybierz panel Scena i kliknij kartę **Tła**, a następnie wybierz żądane tło i przeciągnij je do plecaka.
 
 --- no-print ---
 
-![Dragging an island backdrop from the Backdrops tab to the Backpack.](images/add-backdrop.gif)
+![Przeciąganie tła wyspy z zakładki Tła do Plecaka.](images/add-backdrop.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the backdrop in the Backdrops tab, to the Backpack.](images/add-backdrop.png)
+![Pełny edytor Scratch, ze strzałką od tła w zakładce Tła do Plecaka.](images/add-backdrop.png)
 
 --- /print-only ---
 
-- To use an item in your Backpack in another project, open the project and drag the item from the Backpack to the correct pane or tab.
+- Aby użyć przedmiotu z plecaka w innym projekcie, otwórz projekt i przeciągnij przedmiot z plecaka do odpowiedniego panelu lub karty.
 
 --- no-print ---
 
-![Dragging the Turtle 2 sprite to the Sprite list, and the island backdrop to the Stage pane, in a new project.](images/new-project.gif)
+![Przeciągnięcie duszka Żółw 2 na listę duszków i tło wyspy do panelu Scena w nowym projekcie.](images/new-project.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The full Scratch editor, with an arrow from the Turtle 2 sprite in the Backpack to the Sprite list in a new project.](images/new-project.png)
+![Pełny edytor Scratch ze strzałką od duszka Żółw 2 w plecaku do listy duszków w nowym projekcie.](images/new-project.png)
 
 --- /print-only ---
 
-- To delete an item in your Backpack, find the item in the **Backpack** tab, then right-click (or on a tablet, tap and hold) on the item and select **delete**.
+- Aby usunąć przedmiot z plecaka, znajdź przedmiot na karcie **Plecak**, a następnie kliknij go prawym przyciskiem myszy (lub na tablecie naciśnij i przytrzymaj) i wybierz opcję **usuń**.
 
 --- no-print ---
 
-![Right-clicking on the Turtle 2 sprite in the Backpack, then selecting 'delete' to delete it.](images/delete-items.gif)
+![Kliknij prawym przyciskiem myszy duszka Żółw 2 w plecaku, a następnie wybierz „usuń”, aby go usunąć.](images/delete-items.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The Backpack tab, with a 'delete' option available for the Turtle 2 sprite after the sprite has been right-clicked.](images/delete-items.png)
+![Karta Plecak z opcją „usuń” dostępną dla duszka Żółw 2 po kliknięciu duszka prawym przyciskiem myszy.](images/delete-items.png)
 
 --- /print-only ---
 
-- You can hide your Backpack when you are not using it. To do this, click on the **Backpack** tab at the bottom of the screen.
+- Możesz ukryć swój plecak, gdy go nie używasz. Aby to zrobić, kliknij zakładkę **Plecak** u dołu ekranu.
 
 --- no-print ---
 
-![Clicking on the same Backpack tab used to open the Backpack, to hide the Backpack.](images/hide-backpack.gif)
+![Kliknięcie tej samej zakładki Plecaka, która była używana do otwierania Plecaka, aby go ukryć.](images/hide-backpack.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The Backpack tab highlighted.](images/hide-backpack.png)
+![Podświetlona karta Plecak.](images/hide-backpack.png)
 
 --- /print-only ---
