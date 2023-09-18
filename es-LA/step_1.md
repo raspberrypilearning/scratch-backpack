@@ -1,12 +1,12 @@
 - Puedes usar la mochila de Scratch para almacenar disfraces, objetos, sonidos y scripts que deseas copiar entre proyectos.
 
-- Solo puedes acceder a tu propia Mochila y debes iniciar sesión en tu cuenta de Scratch para usarla.
+- Solo puedes acceder a la tuya propia y debes iniciar sesión en tu cuenta de Scratch para usarla.
 
 - Para abrir la Mochila, haz clic en la pestaña **Mochila** en la parte inferior de la pantalla.
 
 --- no-print ---
 
-![Al hacer clic en la pestaña Mochila justo debajo del área Código, se abre la Mochila.](images/open-backpack.gif)
+![Al hacer clic en la pestaña justo debajo del área Código, se abre la Mochila.](images/open-backpack.gif)
 
 --- /no-print ---
 
@@ -16,7 +16,7 @@
 
 --- /print-only ---
 
-- Para agregar un objeto a tu mochila, arrastra el objeto desde la lista de objetos a la mochila. Esto almacenará el objeto completo en tu mochila, incluidos todos sus disfraces, sonidos y scripts.
+- Para agregarle un objeto, arrástralo desde la lista de objetos a la mochila. Esto almacenará el objeto completo en tu mochila, incluidos todos sus disfraces, sonidos y scripts.
 
 --- no-print ---
 
@@ -30,7 +30,7 @@
 
 --- /print-only ---
 
-- Para agregar un fondo a la Mochila, selecciona el panel Escenario y haz clic en la pestaña **Fondos**, luego elije el fondo que desees y arrástralo a la Mochila.
+- Para agregarle un fondo, selecciona el panel Escenario y haz clic en la pestaña **Fondos**, luego elige el que desees y arrástralo a la Mochila.
 
 --- no-print ---
 
@@ -44,7 +44,7 @@
 
 --- /print-only ---
 
-- Para usar un elemento de tu Mochila en otro proyecto, abre el proyecto y arrastra el elemento desde la Mochila al panel o pestaña correctos.
+- Para usar un elemento en otro proyecto, abre el proyecto y arrastra el elemento desde la Mochila al panel o pestaña correctos.
 
 --- no-print ---
 
@@ -58,7 +58,7 @@
 
 --- /print-only ---
 
-- Para eliminar un artículo en tu Mochila, busca el artículo en la **Mochila**, luego haz clic con el botón derecho (o en una tableta, toca y mantén presionado) en el artículo y selecciona **eliminar**.
+- Para eliminar un artículo, búscalo en la **Mochila**, luego haz clic en él con el botón derecho (o en una tableta, toca y mantén presionado) y selecciona **eliminar**.
 
 --- no-print ---
 
@@ -68,15 +68,15 @@
 
 --- print-only ---
 
-![La pestaña Mochila, con una opción de 'eliminar' disponible para el objeto Turtle 2 después de hacer clic derecho en el sprite.](images/delete-items.png)
+![La pestaña Mochila, con una opción de 'eliminar' disponible para el objeto Turtle 2 después de hacer clic derecho en él.](images/delete-items.png)
 
 --- /print-only ---
 
-- Puedes ocultar tu mochila cuando no la estés usando. Para hacerlo, haz clic en la pestaña **Mochila** en la parte inferior de la pantalla.
+- Puedes ocultarla cuando no la estés usando. Para hacerlo, haz clic en la pestaña **Mochila** en la parte inferior de la pantalla.
 
 --- no-print ---
 
-![Haciendo clic en la misma pestaña Mochila utilizada para abrir la Mochila, para ocultarla.](images/hide-backpack.gif)
+![Haciendo clic en la misma pestaña utilizada para abrir la Mochila, para ocultarla.](images/hide-backpack.gif)
 
 --- /no-print ---
 
